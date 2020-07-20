@@ -9,4 +9,6 @@ Bread
 Ham
 Coca-cola
 Chips
-
+Vino 
+Snacks
+Agua
